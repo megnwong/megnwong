@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👩🏻‍🎓 Education: San Francisco State University, UMass Amherst
+- 🖥️ First “tech” I owned: iPod Touch
+- 🌉 Based in: NorCal 
+- 🧮 Field of Study: Data Science
+- 🗿 About me: Freelance photographer
